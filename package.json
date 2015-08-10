@@ -1,0 +1,25 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "We're having fun",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendywill25/nodefun.git"
+  },
+  "author": "Wendy Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendywill25/nodefun/issues"
+  },
+  "homepage": "https://github.com/wendywill25/nodefun#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {}
+}
